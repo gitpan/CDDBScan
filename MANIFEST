@@ -1,0 +1,5 @@
+t/cddb.t
+Net/CDDBScan.pm
+Makefile.PL
+MANIFEST
+README
